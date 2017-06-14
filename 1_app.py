@@ -6,7 +6,7 @@ import os
 
 @route('/')
 def index():
-    return "<h1> Vagrant and VirtualBox is fun</h1>"
+    return "<h1> Hello proper Person</h1>"
 
 
 if __name__ == '__main__':
